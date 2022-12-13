@@ -79,7 +79,7 @@
     width: 80%;
     margin: auto;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
 }
 
 .article_row_item{
